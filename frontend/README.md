@@ -1,15 +1,3 @@
-![image](https://github.com/Sumir123/OnlineJobPortal-frontend/assets/71181873/2f218683-5f3c-464a-b403-eac31a716f8e)
-
-![image](https://github.com/Sumir123/OnlineJobPortal-frontend/assets/71181873/8b08e5ac-62e1-44c7-b070-5a344600f60e)
-
-![image](https://github.com/Sumir123/OnlineJobPortal-frontend/assets/71181873/f3f4918b-b8b3-4036-9531-bcdb916fd9d9)
-
-![image](https://github.com/Sumir123/OnlineJobPortal-frontend/assets/71181873/08dd358d-38bc-41ca-9717-dddfced05cee)
-
-![image](https://github.com/Sumir123/OnlineJobPortal-frontend/assets/71181873/c6ec4c81-6f7e-4d73-9391-cbf229d60d82)
-
-
-
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
