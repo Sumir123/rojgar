@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+uvicorn = "*"
+bcrypt = "*"
+python-dotenv = "*"
+pyjwt = "*"
+pydantic = {extras = ["email"], version = "*"}
+fastapi = {extras = ["all"], version = "*"}
+passlib = "*"
+python-jose = "*"
+pymongo = "*"
+pandas = "*"
+scikit-learn = "*"
+
+[scripts]
+start = "python app/main.py"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
